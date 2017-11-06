@@ -1,5 +1,7 @@
 # AppStoreCrawlers
 
+Files and programs involved in analyzing the data extraced from these crawlers can be found in my other repository: https://github.com/atruelove/AppReviewAnalysis
+
 This is repository for the app crawler program I've been working on as well as the data I've extraced using the program. To use the program, you need to install:
 
 - Python
